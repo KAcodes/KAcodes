@@ -1,6 +1,7 @@
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align= "center"/>
-
+<div align="center">
+     <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+</div>
+     
 # Kayode Apena
 
 Hi, I'm Kayode from the UK and I am a front-end developer. Welcome to my Github! 😄 
@@ -25,5 +26,4 @@ I’m currently improving my skills in React and I am excited to learn even more
 
 ## Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kayode-apena-bb7479173/)
-- 📫 How to reach me: Find me on LinkedIn here: https://www.linkedin.com/in/kayode-apena-bb7479173/ 
 
