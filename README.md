@@ -1,7 +1,7 @@
 <div align="center">
      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
      
-     # Kayode Apena
+     <h1>Kayode Apena</h1>
      
      Hi, I'm Kayode from the UK and I am a front-end developer. Welcome to my Github! 😄 
      I’m currently improving my skills in React and I am excited to learn even more frameworks and languages which will help. I enjoy building responsive and engaging         webpages and I am excited to develop my skills further.     
