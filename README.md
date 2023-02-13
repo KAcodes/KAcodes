@@ -27,5 +27,5 @@ I’m currently improving my skills in React and I am excited to learn even more
 - 🔭 I’m currently working on personal projects to showcase my skills and knowledge in producing web-applications, with strong emphasis on UI, UX and Design
 
 ## Connect with me
-[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kayode-apena-bb7479173/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kayode-apena-bb7479173/)  
 
