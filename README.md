@@ -1,6 +1,6 @@
 
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align='center>
 
 # Kayode Apena
 
@@ -20,6 +20,8 @@ I’m currently improving my skills in React and I am excited to learn even more
 * 🏗️ Javascript
 * ⚖️ Redux  
 
+     
+## My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KAcodes)](https://github.com/anuraghazra/github-readme-stats)
 
 
