@@ -1,15 +1,13 @@
 ### Hi there 👋
 
-I'm Kayode, the newest web developer on the block! 
+I'm Kayode, and I am a front-end developer. Welcome to my Github! 😄 
 
-<!--
-**KAcodes/KAcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on personal projects to showcase my skills and knowledge in producing web-applications, with strong emphasis on  ui, ux and design
+- 🌱 I’m currently improving my skills in React and I am excited to learn even more frameworks and languages which will help. I enjoy building responsive and engaging webpages and I am excited to develop my skills further.
 
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KAcodes)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React and NodeJs whilst developing skills in my foundation languages. I have interests in web development and can't wait to progress in this field so I am able to work on the full-stack  
 
 - 💬 Ask me about ...
 - 📫 How to reach me: Find me on LinkedIn here: https://www.linkedin.com/in/kayode-apena-bb7479173/
