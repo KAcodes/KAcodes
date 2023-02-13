@@ -1,6 +1,6 @@
 
 
-[<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">]
+![<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">]
 # Kayode Apena
 
 Hi, I'm Kayode from the UK and I am a front-end developer. Welcome to my Github! 😄 
