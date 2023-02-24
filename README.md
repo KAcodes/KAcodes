@@ -6,7 +6,8 @@
      
 ## About Me
 I'm Kayode from the UK and I am a front-end developer. Welcome to my Github! 😄 
-I’m currently improving my skillset in React and I am excited to learn even more frameworks and languages which will help me become a better developer. Building responsive and engaging webpages is something I have really enjoy since my transition into Tech. I don't have the typical pathway into Tech but I find the challenging nature of coding exciting and rewarding and I am eager to showcase what I have learned. Stay connected and tuned into my Profile to see my development! 🎆  
+I’m currently improving my skillset in React and I am excited to learn even more frameworks and languages which will help me become a better developer. Building responsive and engaging webpages is something I have really enjoyed since my transition into Tech. I don't have the typical pathway into Tech but I find the challenging nature of coding exciting and rewarding and I am eager to showcase what I have learned. Stay connected and tuned into my Profile to see my development!
+On my Stars page you can see my Lists which group together repositories of some of my projects I completed on the bootcamp, and my personal projects I have been working on.🎆  
 
 
 ## Languages and Tools
