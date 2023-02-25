@@ -27,7 +27,7 @@ On my Stars page you can see my Lists which group together repositories of some 
 
 - 🔭 I’m currently working on personal projects to showcase my skills and knowledge in producing web-applications, with strong emphasis on UI, UX and Design
 - ⚖️ Encorporating best practices for me to manage states in my applications 
-- 🎭 Finding Hackathons! I'm looking for hackathons to improve my technical skills and ability to work with others, please message me if you have 
+- 🎭 Finding Hackathons! I'm looking for hackathons to improve my technical skills and ability to work with others.
 
 ## Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kayode-apena-bb7479173/)  
