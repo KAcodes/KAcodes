@@ -5,18 +5,21 @@
 # Kayode Apena
      
 ## About Me
-I'm Kayode from the UK and I am a front-end developer. Welcome to my Github! 😄 
-I’m currently improving my skillset in React and I am excited to learn even more frameworks and languages which will help me become a better developer. Building responsive and engaging webpages is something I have really enjoyed since my transition into Tech. I don't have the typical pathway into Tech but I find the challenging nature of coding exciting and rewarding and I am eager to showcase what I have learned. Stay connected and tuned into my Profile to see my development!
-On my Stars page you can see my Lists which group together repositories of some of my projects I completed on the bootcamp, and my personal projects I have been working on.🎆  
+I'm Kayode from the UK and I am a software and data engineer. Welcome to my Github!
+📚 I am professionally trained on top of my self-taught learning, and here you will find a range of projects showcasing my development.
+🎆  The projects encompass a range of languages, tools and programs I have used to grow my skillset. 
 
 
 ## Languages and Tools
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 
      
@@ -25,9 +28,8 @@ On my Stars page you can see my Lists which group together repositories of some 
 
 ## Working on 
 
-- 🔭 I’m currently working on personal projects to showcase my skills and knowledge in producing web-applications, with strong emphasis on UI, UX and Design
-- ⚖️ Encorporating best practices for me to manage states in my applications 
-- 🎭 Finding Hackathons! I'm looking for hackathons to improve my technical skills and ability to work with others.
+- 🔭 I’m currently working on personal projects, building full-stack data-driven applications supported by AWS architecture
+
 
 ## Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kayode-apena-bb7479173/)  
