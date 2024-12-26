@@ -2,7 +2,7 @@
      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>     
 </div>
      
-# Kayode Apena
+# Kayode
      
 ## About Me
 I'm Kayode from the UK and I am a software and data engineer. Welcome to my Github!
